@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.156
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormsNetCore", "WinFormsNetCore\WinFormsNetCore.csproj", "{082AE448-6F2F-49A4-994E-10FEEA753C3E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{082AE448-6F2F-49A4-994E-10FEEA753C3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{082AE448-6F2F-49A4-994E-10FEEA753C3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{082AE448-6F2F-49A4-994E-10FEEA753C3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{082AE448-6F2F-49A4-994E-10FEEA753C3E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EDFA4FBE-5F68-4E36-9D4C-88D8C0A63B51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDFA4FBE-5F68-4E36-9D4C-88D8C0A63B51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDFA4FBE-5F68-4E36-9D4C-88D8C0A63B51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDFA4FBE-5F68-4E36-9D4C-88D8C0A63B51}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B44E6749-9FCA-41B9-9E08-337EBDE88E07}
+	EndGlobalSection
+EndGlobal
